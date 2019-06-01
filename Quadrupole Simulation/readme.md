@@ -4,4 +4,4 @@
 ### These are not intended as rigorous simulations but should reasonable first approaximations.  Remember, quadrupoles are calibrated instruments and these scripts may help demonstrate some of the core principles associated with sinusoidal operation of the quads. 
 #### Additional educational characteristics to notice include the initial kinetic energy of the ion and the number of frequency cycles experienced by an ion.
 
-[![Quadrupole Ion Trajectory]()](https://youtu.be/uNjkt5r-TI8)
+<iframe width="420" height="315" src="https://youtu.be/uNjkt5r-TI8" frameborder="0" allowfullscreen></iframe>
