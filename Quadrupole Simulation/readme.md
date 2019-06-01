@@ -5,4 +5,4 @@
 #### Additional educational characteristics to notice include the initial kinetic energy of the ion and the number of frequency cycles experienced by an ion.
 
 
-[![Quadrupole Ion Trajectory](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/uNjkt5r-TI8)
+[![Quadrupole Ion Trajectory](https://img.youtube.com/vi/https://youtu.be/uNjkt5r-TI8/hqdefault.jpg)](https://youtu.be/uNjkt5r-TI8)
