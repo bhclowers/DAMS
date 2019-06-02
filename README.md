@@ -5,4 +5,4 @@
 * 12May2019 -- Added the scripts necessary for Hadamard Sequence Generation and Deconvolution
 * 12May2019 -- Uploaded the scripts necessary for generation of FT sequences needed for frequency encoding
 
-![Test](https://github.com/bhclowers/scriptorium/Ion%20Mobility%20Calculator/Collisions.png)
+![](./Ion%20Mobility%20Calculator/Collisions.png)
