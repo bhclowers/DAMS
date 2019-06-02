@@ -13,3 +13,4 @@ Key equations include:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\quad&space;{\color{red}\zeta_{mt}}={\Big[1&plus;\Big(\frac{{\color{green}\beta}&space;v_d}{{\color{blue}\alpha}&space;v_T}\Big)\Big]}^{-1/2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\quad&space;{\color{red}\zeta_{mt}}={\Big[1&plus;\Big(\frac{{\color{green}\beta}&space;v_d}{{\color{blue}\alpha}&space;v_T}\Big)\Big]}^{-1/2}" title="\quad {\color{red}\zeta_{mt}}={\Big[1+\Big(\frac{{\color{green}\beta} v_d}{{\color{blue}\alpha} v_T}\Big)\Big]}^{-1/2}" /></a>
 
+![](Collisions.png)
