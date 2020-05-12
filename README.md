@@ -1,4 +1,4 @@
-# scriptorium
+# *D*ata *A*nalysis and *M*odeling *S*cripts
 ## Repository for scripts commonly used in the CRG @ WSU that may be relevant to ion mobility/mass spectrometry research
 
 * 02June2019 -- Uploaded IMS calculator and IMS simulator in both python and Excel format
