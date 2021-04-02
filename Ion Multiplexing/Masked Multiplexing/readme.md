@@ -1,3 +1,18 @@
+![](images/Example Masked Multiplexing.png?raw=true)
+
+### Masked multiplexing transform and adaptive removal of artifact for the 1822
+m/z ion in tune mix. The shaded vertical lines represent areas in the transformed vector
+that exhibit high degrees of variability (C). Minimizing (i.e. deweighting) of those data
+points maximizing signal to noise ratio in the top trace spectrum shown in (C). A
+by-product of this method is that the portion of the spectrum containing actual peaks
+has a low degree of variability. This spectrum further demonstrates the concepts in
+Figure 3 and even demonstrates the capacity to preserve peak tails. The raw transform
+is shown in B. with the baseline amplified by a factor of 10 and shown within the inset
+plot.
+
+
+
+
 ## Files demonstrated the Masked Multiplexing Approach
 
 Copyright 2020, Brian H. Clowers
