@@ -1,7 +1,7 @@
 Multiplexing Code Repository
 
 
-The scripts in this directory are provided under the MIT lisence. 
+The scripts in this directory are provided under the MIT license. 
 
 Copyright 2020, Brian H. Clowers
 
