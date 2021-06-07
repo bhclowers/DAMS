@@ -1,4 +1,4 @@
-## The following set of scripts accompany the manuscript focusing on the benefits afforded to the FT-IMS by phase correction using the attached absorption mode processing script. 
+## The following set of scripts accompany the manuscript focusing on the benefits afforded to the FT-IMS by phase correction using the attached absorption mode processing script. Unzipping of the mzML is needed for the script to function.  
 
 ### *Absorption mode Fourier transform ion mobility mass spectrometry multiplexing combined with half window apodization windows improves resolution and shortens acquisition times.*
 
