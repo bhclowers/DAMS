@@ -8,6 +8,4 @@
 
 #### <sup>2</sup>Department of Chemistry, Washington State University, Pullman, WA
 
-![](aFT TOC.png?raw=true)
-
-![alt text](http://url/to/img.png)
+<img src="https://github.com/bhclowers/DAMS/blob/379b163b0ecf7ef230361ac1a290e5adb44f0492/Absorption%20Mode%20FT-IMS/aFT%20TOC.png" width="600" height="400">
